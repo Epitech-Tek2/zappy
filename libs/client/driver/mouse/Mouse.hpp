@@ -1,0 +1,14 @@
+//
+// Created by Patrick Eiermann on 08/06/2021.
+//
+
+#ifndef B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_MOUSE_HPP
+#define B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_MOUSE_HPP
+
+
+class Mouse {
+
+};
+
+
+#endif //B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_MOUSE_HPP

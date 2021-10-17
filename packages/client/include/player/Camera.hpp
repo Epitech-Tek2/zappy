@@ -1,0 +1,14 @@
+//
+// Created by Patrick Eiermann on 08/06/2021.
+//
+
+#ifndef B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_CAMERA_HPP
+#define B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_CAMERA_HPP
+
+
+class Camera {
+
+};
+
+
+#endif //B_YEP_410_STG_4_1_ZAPPY_PATRICK_EIERMANN_CAMERA_HPP

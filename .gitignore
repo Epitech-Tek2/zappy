@@ -1,0 +1,19 @@
+#extention
+*.o
+*.so
+
+# binary
+zappy_server
+zappy_ia
+zappy_gui
+
+# mac sys generation
+*.dSYM
+
+#vscode
+.vscode
+
+#Clion
+.idea
+
+opengl
